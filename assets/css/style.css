@@ -5,6 +5,13 @@
 body {
     font-family:montserrat;
 }
+
+h2 {
+    color:#54B6B6;
+    font-weight:400;
+    font-size:40px;
+    padding-bottom:20px;
+    }
 /*-----------------------------------------------------------Colors*/
 
 /* 
@@ -85,12 +92,6 @@ body {
     padding:100px 70px;
 }
 
-h2 {
-    color:#54B6B6;
-    font-weight:400;
-    font-size:40px;
-    padding-bottom:20px;
-    }
 
 .about {
     padding:50px 0;
@@ -114,3 +115,8 @@ li {
     padding:10px;
 }
 
+/*-----------------------------------------------------------Projects Section*/
+
+.album {
+    background-color:#E5F0F0;
+}
