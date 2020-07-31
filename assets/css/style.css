@@ -1,0 +1,74 @@
+/*-----------------------------------------------------------General*/
+
+body {
+    font-family: 'Overpass', sans-serif;
+}
+
+/*-----------------------------------------------------------Colors*/
+
+/* 
+#54B6B6 Header and footer background
+#D8E9E9 page background blue
+#d6d6d6 page background grey
+#fafafa off white text for header and footer
+*/
+
+/*-----------------------------------------------------------Heading*/
+
+.navbar-brand {
+
+    color:#fafafa;
+    padding-top:20px;
+
+}
+
+.navbar-brand:hover {
+    color:#fafafa;
+}
+
+
+.main-heading {
+    font-weight:800;
+    font-size:60px;
+}
+
+.sub-heading {
+    font-size:30px;
+    font-weight:700;
+}
+
+@media screen and (max-width:423px) {
+    .main-heading {
+        font-size:25px;
+    }
+
+    .sub-heading {
+        font-size:17px;
+    }
+}
+
+
+
+/*-----------------------------------------------------------Navbar*/
+
+.nav-item {
+    padding:20px;
+}
+
+.nav-item>a:hover{
+    color:#d6d6d6;
+}
+
+
+.navbar-bg-color {
+    background-color:#54B6B6;
+    padding-bottom:20px;
+}
+
+.nav-link {
+    color:#fafafa;
+    font-size:25px;
+    font-weight:800;
+}
+
+
