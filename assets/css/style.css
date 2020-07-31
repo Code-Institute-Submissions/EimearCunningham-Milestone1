@@ -1,15 +1,16 @@
 /*-----------------------------------------------------------General*/
 
-body {
-    font-family: 'Overpass', sans-serif;
-}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;800&display=swap');
 
+body {
+    font-family:montserrat;
+}
 /*-----------------------------------------------------------Colors*/
 
 /* 
 #54B6B6 Header and footer background
-#D8E9E9 page background blue
-#d6d6d6 page background grey
+#e5f0f0 page background blue
+#ebebeb page background grey
 #fafafa off white text for header and footer
 */
 
@@ -28,8 +29,9 @@ body {
 
 
 .main-heading {
+    
     font-weight:800;
-    font-size:60px;
+    font-size:50px;
 }
 
 .sub-heading {
@@ -49,6 +51,8 @@ body {
 
 
 
+
+
 /*-----------------------------------------------------------Navbar*/
 
 .nav-item {
@@ -56,7 +60,7 @@ body {
 }
 
 .nav-item>a:hover{
-    color:#d6d6d6;
+    color:#ebebeb !important;
 }
 
 
@@ -66,9 +70,47 @@ body {
 }
 
 .nav-link {
-    color:#fafafa;
+    
     font-size:25px;
     font-weight:800;
 }
 
+.navbar-dark .navbar-nav .nav-link {
+    color:#fafafa;
+}
+
+/*-----------------------------------------------------------About Section*/
+#about {
+    background-color:#ebebeb;
+    padding:100px 70px;
+}
+
+h2 {
+    color:#54B6B6;
+    font-weight:700;
+    font-size:40px;
+    padding-bottom:20px;
+    }
+
+.about {
+    padding:50px 0;
+}
+
+.skills {
+    list-style-type:none;
+
+}
+
+.icon-label {
+    font-size:20px;
+    font-family:Montserrat; 
+}
+
+.fab {
+    font-size:40px;
+}
+
+li {
+    padding:10px;
+}
 
