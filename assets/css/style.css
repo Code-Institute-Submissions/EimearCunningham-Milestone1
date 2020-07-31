@@ -30,13 +30,13 @@ body {
 
 .main-heading {
     
-    font-weight:800;
-    font-size:50px;
+    font-weight:450;
+    font-size:40px;
 }
 
 .sub-heading {
-    font-size:30px;
-    font-weight:700;
+    font-size:25px;
+    font-weight:500;
 }
 
 @media screen and (max-width:423px) {
@@ -72,7 +72,7 @@ body {
 .nav-link {
     
     font-size:25px;
-    font-weight:800;
+    font-weight:450;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -87,7 +87,7 @@ body {
 
 h2 {
     color:#54B6B6;
-    font-weight:700;
+    font-weight:400;
     font-size:40px;
     padding-bottom:20px;
     }
