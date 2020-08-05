@@ -204,11 +204,66 @@ h4 {
 .main-timeline4 .inner-content{padding:10px}
 }
 
-/*---------------------------------------------------------------------------------------------/Bootsnip*/
+
 
 /*-----------------------------------------------------------Contact Section*/
 #contact {
     background-color:#E5F0F0;
 }
 
+/*-----------------------------------------------------------Footer*/
+footer {
+    background-color:#54B6B6;
+    color:#fafafa;
+    min-height:120px;
+    margin:0;
+}
 
+.contact-list {
+    list-style-type:none;
+    padding:0;s
+}
+}
+
+.social-links {
+    padding-bottom:15px;
+
+}
+
+.social-links li a i {
+    width:32px;
+    height:32px;
+    padding:12px 0;
+    border-radius:50%;
+    font-size:13px;
+    line-height:7px;
+    text-align:center;
+    color:#54B6B6;
+    background:#f5f5f5;
+    transition:all 0.35s ease-in-out;
+    -moz-transition:all 0.35s ease-in-out;
+    -webkit-transition:all 0.35s ease-in-out;
+    -o-transition:all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background:#E0E0E0;
+}
+
+.cv-pdf i {
+    font-size:18px;
+    color:#fafafa;
+    text-align:center;
+    padding-left:5px;
+    transition:all 0.35s ease-in-out;
+    -moz-transition:all 0.35s ease-in-out;
+    -webkit-transition:all 0.35s ease-in-out;
+    -o-transition:all 0.35s ease-in-out;
+}
+
+.cv-pdf i:hover {
+    color:#E0E0E0;
+
+#footer-details {
+    padding:20px;
+}
