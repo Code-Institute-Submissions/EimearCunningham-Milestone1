@@ -1,4 +1,4 @@
-/*-----------------------------------------------------------General*/
+/*-----------------------------------------------------------General Rules*/
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;800&display=swap');
 
@@ -8,19 +8,18 @@ body {
 
 h2 {
     color:#54B6B6;
-    font-weight:400;
+    font-weight:500;
     font-size:40px;
     padding:50px;
-    
-    
     }
 
 section {
     padding:100px 70px;
-}
-/*-----------------------------------------------------------Colors*/
+    }
 
-/* 
+/*-----------------------------------------------------------Colors
+
+
 #54B6B6 Header and footer background
 #e5f0f0 page background blue
 #f5f5f5 page background grey
@@ -33,7 +32,6 @@ section {
 
     color:#fafafa;
     padding-top:20px;
-
 }
 
 .navbar-brand:hover {
@@ -44,7 +42,7 @@ section {
 
 .main-heading {
     
-    font-weight:450;
+    font-weight:500;
     font-size:40px;
 }
 
@@ -88,7 +86,7 @@ section {
 .nav-link {
     
     font-size:25px;
-    font-weight:450;
+    font-weight:500;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -165,7 +163,7 @@ h4 {
 .main-timeline4 .timeline-content{display:block;padding-left:150px;position:relative}
 .main-timeline4 .timeline-content:before{width:90px;height:10px;border-top:7px dotted #333;position:absolute;left:-92px}
 .main-timeline4 .year{display:inline-block;width:120px;height:120px;line-height:100px;border-radius:50%;border:10px solid #54B6B6;font-size:30px;color:#54B6B6;text-align:center;box-shadow:inset 0 0 10px rgba(0,0,0,.4);position:absolute;top:0;left:0}
-.main-timeline4 .year:before{content:"";border-left:20px solid ##54B6B6;border-top:10px solid transparent;border-bottom:10px solid transparent;position:absolute;bottom:-13px;right:0;transform:rotate(45deg)}
+.main-timeline4 .year:before{content:"";border-left:20px solid #54B6B6;border-top:10px solid transparent;border-bottom:10px solid transparent;position:absolute;bottom:-13px;right:0;transform:rotate(45deg)}
 .main-timeline4 .inner-content{padding:20px 0}
 .main-timeline4 .title{font-size:24px;font-weight:600;color:#54B6B6;text-transform:uppercase;margin:0 0 5px}
 .main-timeline4 .description{font-size:14px;color:#6f6f6f;margin:0 0 5px}
@@ -225,9 +223,9 @@ footer {
 
 .contact-list {
     list-style-type:none;
-    padding:0;s
+    padding:0;
 }
-}
+
 
 .social-links {
     padding-bottom:15px;
@@ -267,6 +265,7 @@ footer {
 
 .cv-pdf i:hover {
     color:#E0E0E0;
+}
 
 #footer-details {
     padding:20px;
