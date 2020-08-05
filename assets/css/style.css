@@ -107,6 +107,10 @@ section {
     padding:50px 0;
 }
 
+#download-link {
+    color:#212529;
+}
+
 .skills {
 
     list-style-type:none;
