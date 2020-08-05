@@ -107,6 +107,11 @@ section {
     padding:50px 0;
 }
 
+.hi {
+    color:#54B6B6;
+    font-size:30px;
+}
+
 #download-link {
     color:#212529;
 }
