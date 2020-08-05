@@ -14,6 +14,10 @@ h2 {
     
     
     }
+
+section {
+    padding:100px 70px;
+}
 /*-----------------------------------------------------------Colors*/
 
 /* 
@@ -129,10 +133,10 @@ li {
 
 /*-----------------------------------------------------------Projects Section*/
 
-.album {
+#projects {
 
     background-color:#E5F0F0;
-    padding:0;
+    
 }
 
 .btn-view {
