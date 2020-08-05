@@ -13,7 +13,7 @@
 	<title>| Eimear Cunningham</title>
 </head>
 <body>
-
+    <!--Page Header-->
 	<header>
 		<!--Name & Title-->
 		<nav class="navbar navbar-expand-sm fixed-top navbar-bg-color navbar-dark">
@@ -103,7 +103,7 @@
 							<div class="card-body">
 								<p class="card-text">Website designed for..</p>
 
-								<a class="btn btn-primary btn-light" target="_blank"
+								<a class="btn btn-primary btn-light btn-view" target="_blank"
 									href="https://github.com/EimearCunningham" role="button">View</a>
 
 
@@ -116,7 +116,7 @@
 							<div class="card-body">
 								<p class="card-text">Website designed for..</p>
 
-								<a class="btn btn-primary btn-light" target="_blank"
+								<a class="btn btn-primary btn-light btn-view" target="_blank"
 									href="https://github.com/EimearCunningham" role="button">View</a>
 
 
@@ -128,7 +128,7 @@
 							<img class="card-img-top" src="assets/images/project-three.jpg" alt="Project three">
 							<div class="card-body">
 								<p class="card-text">Website designed for...</p>
-								<a class="btn btn-primary btn-light" target="_blank"
+								<a class="btn btn-primary btn-light btn-view" target="_blank"
 									href="https://github.com/EimearCunningham" role="button">View</a>
 
 
@@ -196,7 +196,36 @@
 	</section>
 
 	<!--Contact Section-->
-	<section id="contact"></section>
+	<section id="contact">
+    <h2 class="text-center">Contact Me!</h2>
+
+    <div class="container-fluid">
+    <div class="row justify-content-center">
+    <div class="col-sm-10 col-md-8">
+	<form class="needs-validation">
+    <div class="form-group">
+			<label for="name">Name</label>
+			<input type="text" class="form-control" id="name" placeholder="Enter name" required>
+		</div>
+
+		<div class="form-group">
+			<label for="email">Email Address</label>
+			<input type="email" class="form-control" id="email" placeholder="Enter email" required>
+		</div>
+        <div class="form-group">
+			<label for="message">Your Message</label>
+			<textarea class="form-control" rows="6" id="message" placeholder="Enter message" required></textarea>
+		</div>
+		<div class="text-center">
+	    <button type="submit" class="btn btn-primary btn-light btn-outline-info">Submit</button>
+        </div>
+	</form>
+    </div>
+    </div>
+    </div>
+    
+    
+    </section>
 
 
 	<!--Footer-->
