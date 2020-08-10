@@ -116,6 +116,11 @@ section {
     color:#212529;
 }
 
+
+.main-image {
+    padding:40px 0px;
+}
+
 .skills {
 
     list-style-type:none;
