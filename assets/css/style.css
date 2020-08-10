@@ -14,7 +14,7 @@ h2 {
     }
 
 section {
-    padding:50px 25px;;
+    padding:100px 25px 50px 25px;
     }
 
 /*-----------------------------------------------------------Colors
@@ -80,7 +80,7 @@ section {
 .navbar-bg-color {
 
     background-color:#54B6B6;
-    padding-bottom:20px;
+    
 }
 
 .nav-link {
@@ -98,7 +98,7 @@ section {
 #about {
 
     background-color:#f5f5f5;
-    padding:250px 70px 100px 70px;
+    padding-top: 200px;
 }
 
 
@@ -206,7 +206,7 @@ h4 {
 .main-timeline4 .timeline-content:before{width:68px;left:-68px}
 .main-timeline4 .timeline:nth-child(2n) .timeline-content:before{right:-68px}
 }
-@media only screen and (max-width:767px){.main-timeline4{overflow:visible}
+@media only screen and (max-width:1024px){.main-timeline4{overflow:visible}
 .main-timeline4:before{height:100%;top:0;left:0;transform:translateX(0)}
 .main-timeline4 .timeline:before,.main-timeline4 .timeline:nth-child(2n):before{top:60px;left:-9px;transform:translateX(0)}
 .main-timeline4 .timeline,.main-timeline4 .timeline:nth-child(even),.main-timeline4 .timeline:nth-child(odd){width:100%;float:none;text-align:center;padding:0;margin:0 0 10px}
