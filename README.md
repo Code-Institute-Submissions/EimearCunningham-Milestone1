@@ -1,4 +1,5 @@
 # Eimear Cunningham Resume
+![alt text](assets/images/am-i-responsive.png)
 
 An online resume for interested recruiters to learn more about me.
 
@@ -50,6 +51,7 @@ CV in PDF format.
 * Balsamiq
 * Pexels.com
 * Bootsnipp
+* AmIResponsive
 
 
 
