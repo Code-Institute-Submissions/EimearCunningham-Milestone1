@@ -31,6 +31,11 @@ the candidate should I wish to get in touch.
 CV in PDF format.
 
 ### Wireframes:
+[Desktop](https://github.com/EimearCunningham/Milestone1/blob/master/assets/wireframes/Desktop.png "Google's Homepage")
+
+[Tablet](https://github.com/EimearCunningham/Milestone1/blob/master/assets/wireframes/Tablet.png "Google's Homepage")
+
+[Mobile](https://github.com/EimearCunningham/Milestone1/blob/master/assets/wireframes/Mobile.png "Google's Homepage")
 
 ## Features
 * Navigation bar 
