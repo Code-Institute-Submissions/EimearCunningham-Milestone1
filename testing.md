@@ -22,8 +22,15 @@ I realised that this error was occuring because a H4 element was being placed **
 
 1. As a recruiter, I want to learn more about this candidate, 
 including their skills.
+    * Upon entering the site, the user can clearly see the "About Me" paragraph, a headshot image and my list of skills.
+    * The "About Me" paragraph is visible at the top of the page on all device sizes.
+    * The user can always easily navigate back to the "About Me" section, using the link in the navigation bar, which is fixed to the top of the page.
+
 2. As a recruiter, I want to view projects that this candidate 
 has worked on to get a feel for their work.
+    * The "Projects" section can be accessed easily in two ways - Either by scrolling past the "About Me" section,
+    or by selecting the "Projects" link from the navigation bar.
+    * The projects section provides an album with pictures of three projects, including links to view these projects on GitHub.
 3. As a recruiter, I want to view the candidates relevant work 
 experience.
 4. As a recruiter, I want to be able to easily see how I can contact 

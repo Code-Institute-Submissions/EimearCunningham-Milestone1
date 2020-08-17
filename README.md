@@ -98,33 +98,7 @@ CV in PDF format.
 
 * [AmIResponsive](http://ami.responsivedesign.is/) - I used AmIResponsive to generate a picture of how my site will look across different devices.
 
-
-
-# Testing
-## Validation Services
-The [W3C Markup Validation Service](https://validator.w3.org/) and the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used to validate all HTML5 and CSS3 code.
-
-### Errors / Warnings found by W3C Markup Validation Service:
-- "Error: No p element in scope but a p end tag seen." This error appeared 3 times in the work experience section. This is code I have copied from BootSnip
-
-### Errors / Warnings found by W3C CSS Validation Service:
-- No Errors found.
-- Warnings: Ignored as these extensions are needed for different browsers.
-    - -moz-transition is an unknown vendor extension
-	- -webkit-transition is an unknown vendor extension
-	- -o-transition is an unknown vendor extension
-	- -moz-transition is an unknown vendor extension
-    - -webkit-transition is an unknown vendor extension
-	- -o-transition is an unknown vendor extension
-        
-
-        
-
-
-
-
 # Deployment
-
 
 
 # Credits
