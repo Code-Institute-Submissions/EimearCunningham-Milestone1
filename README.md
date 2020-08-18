@@ -95,9 +95,10 @@ CV in PDF format.
 * [Hover.css](https://ianlunn.github.io/Hover/) - This library was used to add hover effects to the navigation bar links, and the list items in my list of skills in the "About Me" section of my page.
 
 * Pexels.com - Pexels provided the three images used in the album inclided in the "Projects" section of my page.
-
+* [Font Awesome](https://fontawesome.com/) - Used for all icons in the project 
 * [AmIResponsive](http://ami.responsivedesign.is/) - I used AmIResponsive to generate a picture of how my site will look across different devices.
-
+* [W3C Markup Validation Service](https://validator.w3.org/) - Used to test all HTML code
+* [W3C Css Validation Service](https://jigsaw.w3.org/css-validator/) - Used to test all CSS code 
 # Deployment
 
 
