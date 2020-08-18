@@ -7,7 +7,7 @@ body {
 
 /*-----------------------------------------------------------Section Headings*/
 h2 {
-  color: #54b6b6;
+  color: #54B6B6;
   font-weight: 500;
   font-size: 40px;
   padding: 50px;
@@ -23,12 +23,12 @@ section {
 /*-----------------------------------------------------------Header Logo*/
 
 .navbar-brand {
-  color: #fafafa;
+  color: #FAFAFA;
   padding-top: 20px;
 }
 
 .navbar-brand:hover {
-  color: #fafafa;
+  color: #FAFAFA;
 }
 
 .main-heading {
@@ -58,11 +58,11 @@ section {
 }
 
 .nav-item > a:hover {
-  color: #e0e0e0 !important;
+  color: #E0E0E0 !important;
 }
 
 .navbar-bg-color {
-  background-color: #54b6b6;
+  background-color: #54B6B6;
 }
 
 .nav-link {
@@ -71,21 +71,22 @@ section {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-  color: #fafafa;
+  color: #FAFAFA;
 }
 
 /*-----------------------------------------------------------About Section*/
 #about {
-  background-color: #f5f5f5;
-  padding-top: 200px;
+  background-color: #F5F5F5;
+  padding-top: 200px; /*Extra padding needed on this section to accomodate for NavBar*/
 }
 
 .about {
   padding: 50px 0;
 }
 
+/*Styling for "Hi" at beginning on About Me paragraph*/
 .hi {
-  color: #54b6b6;
+  color: #54B6B6;
   font-size: 30px;
 }
 
@@ -116,11 +117,11 @@ li {
 
 /*-----------------------------------------------------------Projects Section*/
 #projects {
-  background-color: #e5f0f0;
+  background-color: #E5F0F0;
 }
 
 .btn-view {
-  background-color: #e5f0f0;
+  background-color: #E5F0F0;
 }
 
 /*-----------------------------------------------------------Experience Section*/
@@ -129,10 +130,10 @@ h4 {
 }
 
 #experience {
-  background-color: #f5f5f5;
+  background-color: #F5F5F5;
 }
 
-/*---------------------------------------------------------------------------------------------Code from Bootsnip*/
+/*---------------------------------------------------------------------------------------------Code from Bootsnipp for styling timeline*/
 
 .main-timeline4 {
   overflow: hidden;
@@ -164,7 +165,7 @@ h4 {
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  background: #fff;
+  background: #FFF;
   border: 5px solid #333;
   position: absolute;
   left: -10px;
@@ -187,9 +188,9 @@ h4 {
   height: 120px;
   line-height: 100px;
   border-radius: 50%;
-  border: 10px solid #54b6b6;
+  border: 10px solid #54B6B6;
   font-size: 30px;
-  color: #54b6b6;
+  color: #54B6B6;
   text-align: center;
   box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.4);
   position: absolute;
@@ -198,7 +199,7 @@ h4 {
 }
 .main-timeline4 .year:before {
   content: "";
-  border-left: 20px solid #54b6b6;
+  border-left: 20px solid #54B6B6;
   border-top: 10px solid transparent;
   border-bottom: 10px solid transparent;
   position: absolute;
@@ -212,13 +213,13 @@ h4 {
 .main-timeline4 .title {
   font-size: 24px;
   font-weight: 600;
-  color: #54b6b6;
+  color: #54B6B6;
   text-transform: uppercase;
   margin: 0 0 5px;
 }
 .main-timeline4 .description {
   font-size: 16px;
-  color: #6f6f6f;
+  color: #6F6F6F;
   margin: 0 0 5px;
 }
 .main-timeline4 .timeline:nth-child(2n) {
@@ -243,7 +244,7 @@ h4 {
   right: auto;
   left: 0;
   border-left: none;
-  border-right: 20px solid #54b6b6;
+  border-right: 20px solid #54B6B6;
   transform: rotate(-45deg);
 }
 .main-timeline4 .timeline:nth-child(2) {
@@ -260,19 +261,19 @@ h4 {
   margin: 0;
 }
 .main-timeline4 .timeline:nth-child(2n) .year {
-  border-color: #54b6b6;
-  color: #54b6b6;
+  border-color: #54B6B6;
+  color: #54B6B6;
 }
 .main-timeline4 .timeline:nth-child(2) .year:before {
-  border-right-color: #54b6b6;
+  border-right-color: #54B6B6;
 }
 
 .main-timeline4 .timeline:nth-child(3n) .year {
-  border-color: #54b6b6;
-  color: #54b6b6;
+  border-color: #54B6B6;
+  color: #54B6B6;
 }
 .main-timeline4 .timeline:nth-child(3) .year:before {
-  border-left-color: #54b6b6;
+  border-left-color: #54B6B6;
 }
 
 @media only screen and (max-width: 1200px) {
@@ -343,7 +344,7 @@ h4 {
   .main-timeline4 .timeline:nth-child(2n) .year:before,
   .main-timeline4 .year:before {
     border: none;
-    border-right: 20px solid #54b6b6;
+    border-right: 20px solid #54B6B6;
     border-top: 10px solid transparent;
     border-bottom: 10px solid transparent;
     top: 50%;
@@ -353,10 +354,10 @@ h4 {
     transform: rotate(0);
   }
   .main-timeline4 .timeline:nth-child(2n) .year:before {
-    border-right-color: #54b6b6;
+    border-right-color: #54B6B6;
   }
   .main-timeline4 .timeline:nth-child(3n) .year:before {
-    border-right-color: #54b6b6;
+    border-right-color: #54B6B6;
   }
 
   .main-timeline4 .inner-content {
@@ -367,7 +368,7 @@ h4 {
 
 /*-----------------------------------------------------------Contact Section*/
 #contact {
-  background-color: #e5f0f0;
+  background-color: #E5F0F0;
 }
 
 .btn-submit {
@@ -375,8 +376,8 @@ h4 {
 }
 /*-----------------------------------------------------------Footer*/
 footer {
-  background-color: #54b6b6;
-  color: #fafafa;
+  background-color: #54B6B6;
+  color: #FAFAFA;
   min-height: 120px;
   margin: 0;
 }
@@ -385,7 +386,7 @@ footer {
   list-style-type: none;
   padding: 0;
 }
-
+/*-----------------------------------------------------------Footer Social Links*/
 .social-links {
   padding-bottom: 15px;
 }
@@ -398,8 +399,8 @@ footer {
   font-size: 13px;
   line-height: 7px;
   text-align: center;
-  color: #54b6b6;
-  background: #f5f5f5;
+  color: #54B6B6;
+  background: #F5F5F5;
   transition: all 0.35s ease-in-out;
   -moz-transition: all 0.35s ease-in-out;
   -webkit-transition: all 0.35s ease-in-out;
@@ -407,12 +408,12 @@ footer {
 }
 
 .social-links li a i:hover {
-  background: #e0e0e0;
+  background: #E0E0E0;
 }
 
 .cv-pdf i {
   font-size: 18px;
-  color: #fafafa;
+  color: #FAFAFA;
   text-align: center;
   padding-left: 5px;
   transition: all 0.35s ease-in-out;
@@ -422,7 +423,7 @@ footer {
 }
 
 .cv-pdf i:hover {
-  color: #e0e0e0;
+  color: #E0E0E0;
 }
 
 #footer-details {
