@@ -7,7 +7,6 @@ The [W3C Markup Validation Service](https://validator.w3.org/) and the [W3C CSS 
 Once per every paragraph in the Work Experience Timeline (Code taken from Bootsnipp).
 I realised that this error was occuring because a H4 element was being placed **inside** a paragraph element. I fixed this by simply moving the H4 element outside the Paragraph element.
 
-
 ### Errors / Warnings found by W3C CSS Validation Service:
 - No Errors found.
 - Warnings: Ignored as these extensions are needed for different browsers.
@@ -31,9 +30,19 @@ has worked on to get a feel for their work.
     * The "Projects" section can be accessed easily in two ways - Either by scrolling past the "About Me" section,
     or by selecting the "Projects" link from the navigation bar.
     * The projects section provides an album with pictures of three projects, including links to view these projects on GitHub.
+
 3. As a recruiter, I want to view the candidates relevant work 
 experience.
+    * The "Work Experience" section is located directly underneath the "Projects" section and can be found by scrolling to the section. It is 
+    also accesable through the navigation bar.
+    * The section contains an easy to read timeline of my most recent work experince.
+
 4. As a recruiter, I want to be able to easily see how I can contact 
 the candidate should I wish to get in touch.
-5. As a recruiter, I want to be able to download the candidate’s 
-CV in PDF format.
+    * There are 2 links on the page to access the "Contact Me" section - One in the navigation bar, and an inline link in the "About Me paragraph. Both of these links lead to 
+    a contact form which requests the users name, email address and message.
+    * The footer is located directly underneath the contact form, and contains further contact details such as phone, email address and links to my social media platforms.
+    
+5. As a recruiter, I want to be able to download the candidate’s CV in PDF format.
+    * There are 2 places where the user can download my CV from on the site - One is located in the "About Me" section at the top of the page, and the second is located in the page footer.
+    This will save the user from scrolling back to the top of the page to retrieve my CV.
