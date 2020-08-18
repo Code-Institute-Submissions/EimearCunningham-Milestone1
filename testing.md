@@ -62,4 +62,25 @@ the candidate should I wish to get in touch.
     * Click the "download CV" item and check that my CV opens in a new tab.
     * Hover over each list item under "my skills" and ensure that they expand as expected.
     * Reduce screen to tablet size and make sure that layout changes so that each column takes up the full width. Ensure that this stays the same for mobile screen size.
+
+3. Projects Section 
+    * Click each of the three "view" buttons to make sure they open my GitHub profile in a separate tab. Repear for all screen sizes.
+    * Hover over each of the three "view" buttons to check that they change color in the hover state.
+    * Reduce screen size to tablet size and check that projects display vertically instead of in a row of three. Make sure the display stays this way for mobile.
+
+4. Work Experience Section  
+    * Reduce screen size to medium and check that the timeline layout changes accordingly. (Line to left with all 3 experience divs to right)
+    * Reduce screen size to mobile to ensure that the layout stays the same as tablet size mentioned above.
+
+5. Contact Me Section
+    * Try submitting the form with empty fields to make sure the user cannot submit without filling in each required field.
+    * Try submitting the form without using "@" in the email input to ensure the user will be told that this is not a valid email address.
+    * Hover over the "Submit" button to check that the color changes.
+
+6. Pager footer 
+    * Hover over social icons to check that a color change and transition take place.
+    * Click on each social icon to ensure that the page opens in a new tab.
+    * Hover over the "download" icon to check that the same color change and transition take place, as the social icons.
+    * Click on the "download " icon to ensure it opens my CV in a separate tab.
+    * Reduce the screen size to mobile and check that the Download CV column is hidden at this size.
     
