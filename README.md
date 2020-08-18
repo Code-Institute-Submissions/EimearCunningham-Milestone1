@@ -99,7 +99,20 @@ CV in PDF format.
 * [AmIResponsive](http://ami.responsivedesign.is/) - I used AmIResponsive to generate a picture of how my site will look across different devices.
 * [W3C Markup Validation Service](https://validator.w3.org/) - Used to test all HTML code
 * [W3C Css Validation Service](https://jigsaw.w3.org/css-validator/) - Used to test all CSS code 
+
+# Testing
+This can be found in [testing.md](testing.md)
 # Deployment
+This project was deployed using GitHub Pages.
+
+To deploy this page I followed these steps.
+1. Go to GitHub.com and log into account.
+2. From the list of repositories to the left of the page, select EimearCunningham/Milestone1.
+3. Once the repository is open, select the "Settings" button.
+4. Scroll down to the "GitHub Pages" section.
+5. Select the drop-down box which reads "none".
+6. Select the Branch Master option, then save.
+7. Refresh the page and then scroll back down to the "GitHub" pages section. Here you will find the link to the deployed site!
 
 
 # Credits
