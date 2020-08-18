@@ -42,7 +42,12 @@ the candidate should I wish to get in touch.
     * There are 2 links on the page to access the "Contact Me" section - One in the navigation bar, and an inline link in the "About Me paragraph. Both of these links lead to 
     a contact form which requests the users name, email address and message.
     * The footer is located directly underneath the contact form, and contains further contact details such as phone, email address and links to my social media platforms.
-    
+
 5. As a recruiter, I want to be able to download the candidate’s CV in PDF format.
     * There are 2 places where the user can download my CV from on the site - One is located in the "About Me" section at the top of the page, and the second is located in the page footer.
     This will save the user from scrolling back to the top of the page to retrieve my CV.
+
+## Manual testing of all elements and functionality 
+
+1. Navigation bar
+    
