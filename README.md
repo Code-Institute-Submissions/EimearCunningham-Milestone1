@@ -105,7 +105,7 @@ This can be found in [testing.md](testing.md)
 # Deployment
 This project was deployed using GitHub Pages.
 
-To deploy this page I followed these steps.
+## To deploy this page I followed these steps:
 1. Go to GitHub.com and log into account.
 2. From the list of repositories to the left of the page, select EimearCunningham/Milestone1.
 3. Once the repository is open, select the "Settings" button.
@@ -114,6 +114,14 @@ To deploy this page I followed these steps.
 6. Select the Branch Master option, then save.
 7. Refresh the page and then scroll back down to the "GitHub" pages section. Here you will find the link to the deployed site!
 
+## To run this project locally: Clone from GitHub
+1. Go to the [project repository](https://github.com/EimearCunningham/Milestone1)
+2. Above the list of files, select the green "Code" drop-down button.
+3. Under "Clone with HTTPS", click the "copy" icon.
+4. Open Git Bash.
+5. Change the current working directory to the location where you want the cloned directory.
+6. Type "git clone", and then paste the URL you copied earlier.
+7. Press Enter. Your local clone will be created.
 
 # Credits
 
