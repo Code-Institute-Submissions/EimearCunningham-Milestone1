@@ -50,4 +50,16 @@ the candidate should I wish to get in touch.
 ## Manual testing of all elements and functionality 
 
 1. Navigation bar
+    * Ensure that the navigation menu items change from inline to a dropdown menu when screen size is changed from desktop to tablet, and stays this way for mobile screen size.
+    * Click on burger icon when screen size is reduced. Make sure that menu drops down and that all links are working.
+    * Click on each menu item and make sure it links to the correct section. Repeat this for each screen size.
+    * Click on the header logo (my name and title) and ensure it links to the top of the page, as the user would expect.
+    * Ensure that the navigation bar is fixed to the top of the page when users scroll. Test this on all device sizes.
+    * Hover over each navigation item and ensure that there is a color change and that each item expands.
+
+2. About Me Section
+    * Click the "get in touch" link in the About Me paragraph to make sure it links to the Contact Me Section.
+    * Click the "download CV" item and check that my CV opens in a new tab.
+    * Hover over each list item under "my skills" and ensure that they expand as expected.
+    * Reduce screen to tablet size and make sure that layout changes so that each column takes up the full width. Ensure that this stays the same for mobile screen size.
     
