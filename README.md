@@ -91,7 +91,7 @@ CV in PDF format.
 * [Popper](https://popper.js.org/) - Popper.js was used with Bootstrap for any JavaScript needed.
 
 * [Bootsnipp](https://bootsnipp.com/) - I used code from Bootsnipp to create the timeline used in the "Work Experience" section of my project. I then modified this code to suit my color scheme and content.
-
+* [Bootstrap Examples](https://getbootstrap.com/docs/4.0/examples/album/) - I used code from Bootstrap examples to create the album in the "Projects" section of this page.
 * [Hover.css](https://ianlunn.github.io/Hover/) - This library was used to add hover effects to the navigation bar links, and the list items in my list of skills in the "About Me" section of my page.
 
 * Pexels.com - Pexels provided the three images used in the album inclided in the "Projects" section of my page.
@@ -125,9 +125,11 @@ This project was deployed using GitHub Pages.
 
 # Credits
 
-# Content
+## Code
+Code for the album in "Projects" section was obtained from [Bootstrap Examples](https://getbootstrap.com/docs/4.0/examples/album/)
+## Media
+The main image used in the "About Me" section is my own.
+The three photos used in the "Projects" section were obtained from [Pexels.com](https://www.pexels.com/)
 
-# Media
-
-# Acknowledgements
+## Acknowledgements
 
