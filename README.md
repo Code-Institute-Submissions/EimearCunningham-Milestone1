@@ -43,11 +43,11 @@ CV in PDF format.
     - Google Font "Montserrat" was used for all text on the page. This is a commonly used font that creates feelings of trust. I chose this font for this reason as well as the clean, simple finish which goes with the overall theme of my page.
 
 ## Wireframes:
-[Desktop](https://github.com/EimearCunningham/Milestone1/blob/master/assets/wireframes/Desktop.png "Google's Homepage")
+[desktop](https://github.com/EimearCunningham/Milestone1/blob/master/assets/wireframes/desktop.png)
 
-[Tablet](https://github.com/EimearCunningham/Milestone1/blob/master/assets/wireframes/Tablet.png "Google's Homepage")
+[tablet](https://github.com/EimearCunningham/Milestone1/blob/master/assets/wireframes/tablet.png)
 
-[Mobile](https://github.com/EimearCunningham/Milestone1/blob/master/assets/wireframes/Mobile.png "Google's Homepage")
+[mobile](https://github.com/EimearCunningham/Milestone1/blob/master/assets/wireframes/mobile.png)
 
 # Features
 
