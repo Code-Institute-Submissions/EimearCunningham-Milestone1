@@ -126,10 +126,12 @@ This project was deployed using GitHub Pages.
 # Credits
 
 ## Code
-Code for the album in "Projects" section was obtained from [Bootstrap Examples](https://getbootstrap.com/docs/4.0/examples/album/)
+* Code for the album in "Projects" section was obtained from [Bootstrap Examples](https://getbootstrap.com/docs/4.0/examples/album/)
+* Code for the timeline in "Experience" section was obtained from [Bootsnip.com](https://bootsnipp.com/snippets/prmge)
 ## Media
-The main image used in the "About Me" section is my own.
-The three photos used in the "Projects" section were obtained from [Pexels.com](https://www.pexels.com/)
+* The main image used in the "About Me" section is my own.
+* The three images used in the "Projects" section were obtained from [Pexels.com](https://www.pexels.com/)
 
 ## Acknowledgements
+* I would like to thank my mentor, Can Sucullu for his help and suggestions throughout this project.
 
