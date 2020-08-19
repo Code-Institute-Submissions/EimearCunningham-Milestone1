@@ -96,6 +96,7 @@ section {
 
 .main-image {
   padding: 40px 0px;
+  max-height:80%;
 }
 
 .skills {
