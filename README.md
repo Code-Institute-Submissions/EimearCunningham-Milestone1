@@ -66,7 +66,7 @@ CV in PDF format.
 * Album with Links to Projects - A Bootstrap album with three thumbnails to display my portfolio.
 
 ### Work Experience Section
-* Timeline with relevant Work Experience - A timeline created using modified code from Bootsnipp.com to display my recent work experience.
+* Timeline with relevant Work Experience - A timeline created using modified code from Bootsnipp.com (https://bootsnipp.com/snippets/prmge) to display my recent work experience.
 
 ### Contact Me Section
 * Contact Form - A contact form with requires the user to input their Name, Email address and Message before submitting using the Submit Button.
@@ -92,7 +92,7 @@ CV in PDF format.
 * [Bootstrap 4.4.1](https://getbootstrap.com/) - Bootstrap version 4 was used throughout this project.
 * [Popper](https://popper.js.org/) - Popper.js was used with Bootstrap for any JavaScript needed.
 
-* [Bootsnipp](https://bootsnipp.com/) - I used code from Bootsnipp to create the timeline used in the "Work Experience" section of my project. I then modified this code to suit my color scheme and content.
+* [Bootsnipp](https://bootsnipp.com/) - I used code from Bootsnipp to create the timeline used in the "Work Experience" section of my project. (https://bootsnipp.com/snippets/prmge) I then modified this code to suit my color scheme and content.
 * [Bootstrap Examples](https://getbootstrap.com/docs/4.0/examples/album/) - I used code from Bootstrap examples to create the album in the "Projects" section of this page.
 * [Hover.css](https://ianlunn.github.io/Hover/) - This library was used to add hover effects to the navigation bar links, and the list items in my list of skills in the "About Me" section of my page.
 
@@ -131,7 +131,7 @@ This project was deployed using GitHub Pages.
 
 ## Code
 * Code for the album in "Projects" section was obtained from [Bootstrap Examples](https://getbootstrap.com/docs/4.0/examples/album/)
-* Code for the timeline in "Experience" section was obtained from [Bootsnip.com](https://bootsnipp.com/snippets/prmge)
+* Code for the timeline in "Experience" section was obtained from [Bootsnip.com](https://bootsnipp.com/snippets/prmge) - https://bootsnipp.com/snippets/prmge
 ## Media
 * The main image used in the "About Me" section is my own.
 * The three images used in the "Projects" section were obtained from [Pexels.com](https://www.pexels.com/)
