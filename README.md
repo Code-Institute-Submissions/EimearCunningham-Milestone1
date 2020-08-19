@@ -1,5 +1,5 @@
 # Eimear Cunningham Resume
-![Site shown on different devices](assets/images/am-i-responsive.png)
+![Site shown on different devices](assets/images/readme-images/am-i-responsive.png)
 
 Live website: https://eimearcunningham.github.io/Milestone1/
 

@@ -16,7 +16,14 @@ I realised that this error was occuring because a H4 element was being placed **
 	- -moz-transition is an unknown vendor extension
     - -webkit-transition is an unknown vendor extension
 	- -o-transition is an unknown vendor extension
-        
+
+## Speed Testing
+[Uptrends.com](https://www.uptrends.com/tools/website-speed-test) was used to test the load time of the website.
+The following results and recommendations were obtained.
+![Speed Test Results](assets/images/testing-images/uptrends-results-screenshot.png)
+
+I followed these recommendations and resized the three "Projects" images, using [TinyPNG.com](https://tinypng.com/).
+![TinyPNG screenshot](assets/images/testing-images/tinypng-screenshot.png)       
 ## Testing User Stories 
 
 1. As a recruiter, I want to learn more about this candidate, 
