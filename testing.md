@@ -58,6 +58,8 @@ the candidate should I wish to get in touch.
 
 1. Navigation bar
     * Ensure that the navigation menu items change from inline to a dropdown menu when screen size is changed from desktop to tablet, and stays this way for mobile screen size.
+
+        **During testing it was noticed that instead of being displayed next to the header text, the burger icon was being pushed to a new line. This was fixed by reducing the size of the header text on mobile devices.**
     * Click on burger icon when screen size is reduced. Make sure that menu drops down and that all links are working.
     * Click on each menu item and make sure it links to the correct section. Repeat this for each screen size.
     * Click on the header logo (my name and title) and ensure it links to the top of the page, as the user would expect.

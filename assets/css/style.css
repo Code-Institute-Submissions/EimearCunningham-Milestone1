@@ -44,7 +44,7 @@ section {
 /*-----------------------------------------------------------Media Query for font size of logo*/
 @media screen and (max-width: 423px) {
   .main-heading {
-    font-size: 25px;
+    font-size: 20px;
   }
 
   .sub-heading {
@@ -96,7 +96,7 @@ section {
 
 .main-image {
   padding: 40px 0px;
-  max-height:80%;
+  max-height:75%;
 }
 
 .skills {
