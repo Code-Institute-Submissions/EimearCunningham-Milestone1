@@ -101,6 +101,8 @@ CV in PDF format.
 * [AmIResponsive](http://ami.responsivedesign.is/) - I used AmIResponsive to generate a picture of how my site will look across different devices.
 * [W3C Markup Validation Service](https://validator.w3.org/) - Used to test all HTML code
 * [W3C Css Validation Service](https://jigsaw.w3.org/css-validator/) - Used to test all CSS code 
+* [TinyPNG](https://tinypng.com/) - Used to reduce file size of images.
+* [Uptrends Website Speed test](https://www.uptrends.com/tools/website-speed-test) - Used to test laod time of site.
 
 # Testing
 This can be found in [testing.md](testing.md)
