@@ -1,6 +1,8 @@
 # Eimear Cunningham Resume
 ![Site shown on different devices](assets/images/am-i-responsive.png)
 
+Live website: https://eimearcunningham.github.io/Milestone1/
+
 An online resume for interested recruiters to learn more about me.
 
 The main aim of this website is to create an online presence for myself for the purpose of being hired.
@@ -112,7 +114,7 @@ This project was deployed using GitHub Pages.
 4. Scroll down to the "GitHub Pages" section.
 5. Select the drop-down box which reads "none".
 6. Select the Branch Master option, then save.
-7. Refresh the page and then scroll back down to the "GitHub" pages section. Here you will find the link to the deployed site!
+7. Refresh the page and then scroll back down to the "GitHub" pages section. Here you will find the link to the deployed site - https://eimearcunningham.github.io/Milestone1/
 
 ## To run this project locally: Clone from GitHub
 1. Go to the [project repository](https://github.com/EimearCunningham/Milestone1)
