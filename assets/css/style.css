@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------Font*/
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;800&display=swap");
 
 body {
   font-family: montserrat;
@@ -48,7 +48,7 @@ section {
   }
 
   .sub-heading {
-    font-size: 17px;
+    font-size: 15px;
   }
 }
 
@@ -66,8 +66,8 @@ section {
 }
 
 .nav-link {
-  font-size: 25px;
-  font-weight: 500;
+  font-size: 22px;
+  font-weight: 600;
 }
 
 .navbar-dark .navbar-nav .nav-link {
