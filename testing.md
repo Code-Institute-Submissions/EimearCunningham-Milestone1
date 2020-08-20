@@ -25,7 +25,6 @@ The following results and recommendations were obtained.
 I followed these recommendations and resized the three "Projects" images, using [TinyPNG.com](https://tinypng.com/).
 ![TinyPNG screenshot](assets/images/testing-images/tinypng-screenshot.png)       
 ## Testing User Stories 
-
 1. As a recruiter, I want to learn more about this candidate, 
 including their skills.
     * Upon entering the site, the user can clearly see the "About Me" paragraph, a headshot image and my list of skills.
@@ -55,7 +54,6 @@ the candidate should I wish to get in touch.
     This will save the user from scrolling back to the top of the page to retrieve my CV.
 
 ## Manual testing of all elements and functionality 
-
 1. Navigation bar
     * Ensure that the navigation menu items change from inline to a dropdown menu when screen size is changed from desktop to tablet, and stays this way for mobile screen size.
 

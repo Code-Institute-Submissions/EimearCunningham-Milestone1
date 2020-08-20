@@ -17,7 +17,6 @@ The main aim of this website is to create an online presence for myself for the 
 
 ### This project is the best way to help them achieve these things because:
 * The website is easy to navigate and uses a clear layout to display my skills, projects and work experience.
-
 * The Contact Me section is easy to find and provides a form to contact me directly as well as my contact details.
 
 ## User Stories:
@@ -39,8 +38,6 @@ CV in PDF format.
     - #F5F5F5 - A shade of "whitesmoke" was selected for the remaing two section backgrounds.
     - #FAFAFA - A "snow" shade selected for text inside the Header and Footer. This provides a nice contrast between the text and background shades.
     - #E0E0E0 - A "gainsboro" shade selected for the hover state for Navbar links and Footer links. This shade of grey provides a subtle color change when hovering over clickable links. 
-
-
 - Typography 
     - Google Font "Montserrat" was used for all text on the page. This is a commonly used font that creates feelings of trust. I chose this font for this reason as well as the clean, simple finish which goes with the overall theme of my page.
 
@@ -52,7 +49,6 @@ CV in PDF format.
 [mobile](https://github.com/EimearCunningham/Milestone1/blob/master/assets/wireframes/mobile.png)
 
 # Features
-
 ### Header
 * Header Logo - A fixed-top, clickable logo which brings users back to the top of the page, as would be expected.
 * Navigation Bar - Also fixed-top, the navigation bar contains links to each section of the page. This means that as the user scrolls through the page they always have to option to get to another section.
@@ -79,24 +75,19 @@ CV in PDF format.
 ### Features Left to Implement
 * Actual project links - As my portfolio grows I will add links to my actual projects, rather than to my GitHub page.
 * Form functionality - To be added as I learn backend processes.
-* Submit button - To change from "Send" to "Message Sent" when relevent JavaScript has been learned.
 
 # Technologies Used
 * HTML5 and CSS3 were the programming languages used for this project.
-
 * [Coolors](https://coolors.co/) - Coolers was used as part of my planning process, to select the color theme for the page.
 * [Google Fonts](https://fonts.google.com/) - This project uses "Montserrat" from Google Fonts for all text throughout the page. 
 * [Balsamiq](https://balsamiq.com/) - Balsamiq was used to create the wireframes included in this file.
-
 * [JQuery](https://jquery.com/) - JQuery came with Boostrap for any JavaScript needed.
 * [Bootstrap 4.4.1](https://getbootstrap.com/) - Bootstrap version 4 was used throughout this project.
 * [Popper](https://popper.js.org/) - Popper.js was used with Bootstrap for any JavaScript needed.
-
 * [Bootsnipp](https://bootsnipp.com/) - I used code from Bootsnipp to create the timeline used in the "Work Experience" section of my project. (https://bootsnipp.com/snippets/prmge) I then modified this code to suit my color scheme and content.
 * [Bootstrap Examples](https://getbootstrap.com/docs/4.0/examples/album/) - I used code from Bootstrap examples to create the album in the "Projects" section of this page.
 * [Hover.css](https://ianlunn.github.io/Hover/) - This library was used to add hover effects to the navigation bar links, and the list items in my list of skills in the "About Me" section of my page.
-
-* Pexels.com - Pexels provided the three images used in the album inclided in the "Projects" section of my page.
+* [Pexels.com](https://www.pexels.com/) - Pexels provided the three images used in the album inclided in the "Projects" section of my page.
 * [Font Awesome](https://fontawesome.com/) - Used for all icons in the project 
 * [AmIResponsive](http://ami.responsivedesign.is/) - I used AmIResponsive to generate a picture of how my site will look across different devices.
 * [W3C Markup Validation Service](https://validator.w3.org/) - Used to test all HTML code
@@ -104,8 +95,10 @@ CV in PDF format.
 * [TinyPNG](https://tinypng.com/) - Used to reduce file size of images.
 * [Uptrends Website Speed test](https://www.uptrends.com/tools/website-speed-test) - Used to test laod time of site.
 * [Wave Web Accesability Tool](https://wave.webaim.org/) - This was used to test the accessability of the site.
+
 # Testing
 This can be found in [testing.md](testing.md)
+
 # Deployment
 This project was deployed using GitHub Pages.
 
@@ -135,7 +128,6 @@ This project was deployed using GitHub Pages.
 ## Media
 * The main image used in the "About Me" section is my own.
 * The three images used in the "Projects" section were obtained from [Pexels.com](https://www.pexels.com/)
-
 ## Acknowledgements
 * I would like to thank my mentor, Can Sucullu for his help and suggestions throughout this project.
-
+* I would also like to thank the Code Institute community on Slack, for all of their help and encouragement. 
