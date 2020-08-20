@@ -93,3 +93,10 @@ the candidate should I wish to get in touch.
     * Click on the "download " icon to ensure it opens my CV in a separate tab.
     * Reduce the screen size to mobile and check that the Download CV column is hidden at this size.
     
+
+## Accessability Testing
+[WAVE Web Accessability Evaluation Tool](https://wave.webaim.org/) was used to test the accessability of my site.
+The following changes were made upon recommendation from WAVE:
+
+* Alt text of main headshot image was made more meaningful.
+* Skipped heading ranks were changed to avoid confusion 
